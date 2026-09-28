@@ -1,0 +1,20 @@
+{
+  "source": "img01.jpg",
+  "cropPx": [
+    899,
+    310
+  ],
+  "aspect": 2.9,
+  "lensCenters": [
+    [
+      0.2458,
+      0.5
+    ],
+    [
+      0.7464,
+      0.5097
+    ]
+  ],
+  "hingeV": 0.1685,
+  "hasLens": false
+}

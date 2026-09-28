@@ -1,0 +1,20 @@
+{
+  "source": "smash_punk_2.jpg",
+  "cropPx": [
+    920,
+    326
+  ],
+  "aspect": 2.8220858895705523,
+  "lensCenters": [
+    [
+      0.2565,
+      0.4835
+    ],
+    [
+      0.7492,
+      0.4893
+    ]
+  ],
+  "hingeV": 0.2607,
+  "hasLens": true
+}

@@ -1,0 +1,20 @@
+{
+  "source": "front_rgba.png",
+  "cropPx": [
+    1008,
+    345
+  ],
+  "aspect": 2.9217391304347826,
+  "lensCenters": [
+    [
+      0.2604,
+      0.5014
+    ],
+    [
+      0.7386,
+      0.5014
+    ]
+  ],
+  "hingeV": 0.2993,
+  "hasLens": false
+}
